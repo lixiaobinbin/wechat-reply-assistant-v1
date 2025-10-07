@@ -56,5 +56,5 @@ npm start
 
 - **后端**: FastAPI + OpenAI API
 - **前端**: React + Ant Design
-- **AI模型**: GPT-3.5-turbo
+- **AI模型**: qwen3-max
 
