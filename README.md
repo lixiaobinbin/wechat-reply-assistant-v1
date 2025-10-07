@@ -52,6 +52,12 @@ npm start
 3. 点击"生成回复建议"按钮
 4. 查看AI生成的回复建议，选择合适的进行回复
 
+
+## 使用示例
+
+<img width="1863" height="955" alt="image" src="https://github.com/user-attachments/assets/4ee5ccbf-603d-48e1-8465-e42d8d3120e0" />
+
+
 ## 技术栈
 
 - **后端**: FastAPI + OpenAI API
